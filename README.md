@@ -31,6 +31,8 @@ Installer les dépendances :
 
 ```bash
 npm install
+ou
+npm i
 ```
 
 ### Configuration de la base de données

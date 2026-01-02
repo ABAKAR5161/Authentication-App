@@ -86,6 +86,27 @@ nodemon index.js
 
 Par défaut l'application écoute sur le port `8000` (cf. `index.js`).
 
+---
+
+## Maquettes / Screenshots
+
+Voici quelques captures d'écran / maquettes du projet. Remplace ces fichiers par tes propres images si tu veux.
+
+### Aperçu — Écran d'accueil
+
+![Écran d'accueil](assets/screenshots/home.png)
+
+### Connexion
+
+![Page de connexion](assets/screenshots/login.png)
+
+### Inscription
+
+![Formulaire d'inscription](assets/screenshots/register.png)
+
+
+
+
 
 
 

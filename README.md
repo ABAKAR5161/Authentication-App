@@ -102,7 +102,12 @@ Voici quelques captures d'écran / maquettes du projet. Remplace ces fichiers pa
 
 ### Inscription
 
-![Formulaire d'inscription](assets/screenshots/register.png)
+![Formulaire d'inscription](assets/screenshots/register.png) 
+
+### Secret
+
+![Apres Authentifaction, Secre](assets/screenshots/secret.png)
+
 
 
 
